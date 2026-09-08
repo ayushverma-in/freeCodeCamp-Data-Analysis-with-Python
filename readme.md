@@ -28,6 +28,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## Author 
-
-Ayush Verma
+## Author
+**Ayush Verma**
+🔗 [LinkedIn](www.linkedin.com/in/ayushverma-web) 

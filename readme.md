@@ -2,7 +2,7 @@
 
 5 certification projects completed for freeCodeCamp's **Data Analysis with Python** course. Each project uses Python and real datasets to clean, analyze, and visualize data.
 
-🎓 Certificate: [add your fcc certificate link here once claimed]
+🎓 [Certificate](https://www.freecodecamp.org/certification/ayushverma-in/data-analysis-with-python-v7)
 
 ## Projects
 
